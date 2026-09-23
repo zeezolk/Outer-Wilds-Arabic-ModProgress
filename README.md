@@ -1,4 +1,4 @@
-# Outer-Wilds-Arabic-ModProgress
+# Outer-Wilds-Arabic-Mod
 <!-- PROGRESS_BADGE_START -->
-![Translation Progress](https://img.shields.io/badge/Translation-0%25-red) (0/0 strings)
+![Translation Progress](https://img.shields.io/badge/Translation-11.0%25-red) (411/3726 strings)
 <!-- PROGRESS_BADGE_END -->
