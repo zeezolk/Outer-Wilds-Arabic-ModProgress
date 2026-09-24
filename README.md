@@ -3,5 +3,5 @@
 # راح يتم نشر المود في مستودع آخر يوم ننتهي (أو في نفس المستودع هذا).
 # المود ممكن يأخذ مدة (عدة أشهر) بحكم أن الترجمة تتم بشكل يدوي.
 <!-- PROGRESS_BADGE_START -->
-![Translation Progress](https://img.shields.io/badge/Translation-11.4%25-red) (424/3726 strings)
+![Translation Progress](https://img.shields.io/badge/Translation-11.6%25-red) (431/3726 strings)
 <!-- PROGRESS_BADGE_END -->
